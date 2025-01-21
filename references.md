@@ -1,3 +1,5 @@
-# References
 
-* octocat 1 😈
+# References: 
+* Prof 1
+* Prof 2
+* octocat 😈
